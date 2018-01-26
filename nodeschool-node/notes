@@ -1,0 +1,3 @@
+Number of new lines in a file
+------------------------------
+cat file | wc -l.  

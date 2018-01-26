@@ -1,0 +1,11 @@
+Section - Differnce between JavaScript and Java
+
+Q)JS Cannot automatically write to hard disk.
+    A)Javascript is a scripting language that lives inside the browser.
+      As such it is bound and restricted by the browser.
+      Java on the other hand is being executed as a stand alone application.
+      Having all the rights of the person currently logged in. This means that if the
+      logged in user has rights to write to the hard drive so does the java program
+      Luckily javascript does not get those rights from the browser. The major reason for
+      this is security. You do not want a virus written to your hard drive while just browsing
+      a website.And indeed Javascript is by no means Java, it is not even close to it.
